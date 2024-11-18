@@ -1,5 +1,7 @@
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-dynamic-subset.min.css");
 .about {
   padding: 10px 25px;
+  font-family: Pretendard;
 }
 .about .profile {
   display: flex;

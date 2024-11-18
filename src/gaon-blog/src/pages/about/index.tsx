@@ -17,8 +17,9 @@ function About(){
                 <h2>Education</h2>
                 <h3>Hanyang University</h3>
                 <ul>
-                    <li>Bachelor of Science, Department of Computer Science and Engineering</li>
-                    <li>Bachelor of Science, Department of Electronic Engineering</li>
+                    <li>Bachelor of Science, <b>Department of Computer Science and Engineering</b> (2019.03 ~ 2025.02)</li>
+                    <li>Bachelor of Science, <b>Department of Electronic Engineering</b> (double major)</li>
+                    <li>Total GPA : 3.97 / 4.5</li>
                 </ul>
             </div>
             <div className='work'>
